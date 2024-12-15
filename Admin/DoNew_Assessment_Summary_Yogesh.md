@@ -120,7 +120,7 @@ Lets dig deeper into the first idea i.e. the "Ed-Tech Pathway Navigator" Project
 
 Final recommendation is
 
-```
+<code>
 Project Title: VidyaSetu (विद्या-सेतू) – Transition and Empowerment for Future Educators Objective: Develop a tailored EdTech platform for mid-career professionals, corporate employees, and senior citizens to transition into teaching roles while equipping them with essential training, certifications, and career pathways. Rationale and Pain Points Addressed: Mid-Career Transition: Many professionals in their 30s-50s seek purpose-driven roles like teaching but lack structured guidance and credentials to enter academia. Faculty Quality Gap: Poorly qualified and unmotivated faculty are major contributors to the education quality crisis. Lifelong Learning for Seniors: Senior citizens with domain expertise often wish to contribute through teaching but face barriers in pedagogy and digital tools. Project Outline: 
 
 1. Unique Selling Proposition (USP): Niche Focus: A platform exclusively for individuals transitioning into teaching or upskilling in academia. Holistic Offering: Faculty skills training (pedagogy, subject expertise, digital teaching tools). Certification paths tailored to mid-career and senior professionals. AI-driven personalized learning plans. Monetizable Certification: Industry-recognized certifications for teaching in schools, colleges, or as independent educators. 
@@ -145,5 +145,5 @@ Moonshot Element: A faculty and teaching revolution that creates a pipeline of h
 Impact: Mid-Career Professionals: Seamless transition into fulfilling teaching roles. 
 
 Education Sector: Higher quality educators improving student outcomes. Senior Citizens: A platform for meaningful engagement and knowledge sharing.
-```
+</code>
 
