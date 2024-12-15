@@ -28,6 +28,12 @@
 	- What do you plan to do the next week?
 	- What did you learn that was new and exciting?
 	- What was blocking you and how did you try to overcome it (even though you may be still blocked)?
+* Start Saturday office hours for this transition 
+* Once finalized review beta test then publish post
+* Ask people to collaborate, put issues, send PRs
+* Make comprehensive learning path diagram, many sub markdown files , images folder etc, all playbooks are made public 
+* For chatbot: Create json graph for learning path, role, domain, topic, build graph LLM rag on top, streamlit UI 
+* Do certifications yourself 
 * Refine the MVP requirements and prioritize core features.  
 * Develop partnerships with education boards for certification validation.  
 * Identify pilot institutions or user groups for testing.  
