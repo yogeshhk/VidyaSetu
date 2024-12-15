@@ -1,4 +1,4 @@
-
+# ToDos
 
 ## **Next Steps**
 * The first step to tackle any moonshot is to understand the problem from the persona's point of view and from the world's points of view - both qualitatively and quantitatively.  
@@ -32,6 +32,13 @@
 * Develop partnerships with education boards for certification validation.  
 * Identify pilot institutions or user groups for testing.  
 * Launch with a focused marketing campaign targeting mid-career professionals and senior citizens.
+
+### Pro Tips
+
+* Start small, scale gradually  
+* Leverage professional network  
+* Stay updated with educational technologies  
+* Build a strong digital presence
 
 # Appendix 
 
