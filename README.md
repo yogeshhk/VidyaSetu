@@ -1,6 +1,8 @@
 # VidyaSetu (विद्या - सेतू )  Faculty Path
 
-Repository for a bridge to transition career from professionals to professors.  T3Tech: \[Train-The-Trainer\] Technologies, B2S2T: Back2School2Teach
+Repository for a bridge to transition career from professionals to professors.  
+
+T3Tech: \[Train-The-Trainer\] Technologies, B2S2T: Back2School2Teach
 
 ## **Introduction**
 
