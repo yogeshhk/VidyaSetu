@@ -29,6 +29,11 @@ Our mission is clear:
 * Make interested professionals teaching-ready  
 * Create a comprehensive playbook for seamless career transition
 
+## Table of Contents
+- [To Do list](./ToDos.md)
+- [Weekly Tracking](./Admin/DoNew_VidyaSetu_Tracking.md)
+- [Playbook](./Playbook/Main.md)
+
 ## **Objective**
 
 To develop a Playbook (may be an EdTech Platform, later) tailored for **mid-career professionals**, **corporate employees**, **homemakers** and **senior citizens** aiming to transition into teaching roles. It will equip users with essential training, certifications, and career pathways, addressing gaps in faculty quality and education outcomes.
@@ -125,6 +130,7 @@ A **faculty and teaching revolution** that creates a **pipeline of highly motiva
 2. **Subscription Plans**: Subscriptions for access to courses and certifications.  
 3. **Corporate Partnerships**:Offer exit-transition training programs for retiring employees.  
 4. **Institutional Sales**:Packages for schools, colleges, or institutes to upskill their faculty.
+
 
 
 

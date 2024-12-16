@@ -9,6 +9,8 @@ What is their mental model (let me know if you need help on this)
 What is a typical journey map (including emotions) in what they go through, there may be multiple journeys you may document.
 
 Questionnaire:
+- Contact Name:
+- Contact Email (don't share mobile):
 - Subjects needed: <TE Mech Eng Fluid Mechanics>
 - Subject eligibility: <degree, experience>
 - Mode (Online/Offline):
@@ -24,3 +26,4 @@ Questionnaire:
 - Mental model: <why do you need this engagement?>
 - Timeline: <Urgency>
 - Anything else:
+
