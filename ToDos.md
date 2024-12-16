@@ -4,7 +4,7 @@
 * The first step to tackle any moonshot is to understand the problem from the persona's point of view and from the world's points of view - both qualitatively and quantitatively.  
    - Come up with 2-3 insights that were not known before and 2-3 things out there in the world that already exist, 
    - Put this into a mindmap. Use Google Drawings, Coggle, Miro, Obsidian, et al.
-	- *Persona* - understand 5 stakeholders 
+	- *Persona* - understand the stakeholders 
 		- current students at colleges, 
 		- current colleges (profs, VC/directors), 
 		- current experts (professional experts, retiree experts, homemaker experts, et al. 

@@ -50,7 +50,7 @@ To develop a Playbook (may be an EdTech Platform, later) tailored for **mid-care
 
 - Part of curriculum Design, Board of Studies  
 - Expert lectures (1hr, no syllabus, any topic)  
-- Internship guidance (1,2 hrs a week, long term)  
+- Internship/MTech/PhD guidance (1,2 hrs a week, long term)  
 - Co-Teaching (20%) on ad-hoc basis (1,2 hrs a week, long term)  
 - Adjunct Faculty on ad-hoc basis (3 hrs a week \+ exams)  
 - Professor of Practice (more involvement, almost like a full time job)
@@ -58,8 +58,8 @@ To develop a Playbook (may be an EdTech Platform, later) tailored for **mid-care
 **Online:**
 
 - Creation of Courses, Video Playlists  
-- Tuitions, MTech/PhD guidance  
 - Remote, Global, 1:1/1:n mode
+- Offline tasks mentioned above, if allowed online.
 
 **Target Audience**
 
