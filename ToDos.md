@@ -29,7 +29,7 @@
 	- What did you learn that was new and exciting?
 	- What was blocking you and how did you try to overcome it (even though you may be still blocked)?
 * Start Saturday office hours for this transition 
-* Once finalized review beta test then publish post
+* Once finalized review beta test then publish post, use QR code pic for the Google form and use that pic in LinkedIn post instead of web-link.
 * Ask people to collaborate, put issues, send PRs
 * Make comprehensive learning path diagram, many sub markdown files , images folder etc, all playbooks are made public 
 * For chatbot: Create json graph for learning path, role, domain, topic, build graph LLM rag on top, streamlit UI 
