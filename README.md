@@ -1,4 +1,4 @@
-# VidyaSetu (विद्या - सेतू )  Faculty Path
+# VidyaSetu (विद्या - सेतू )  Knowledge Bridge
 
 Repository for a bridge to transition career from professionals to professors.  
 
