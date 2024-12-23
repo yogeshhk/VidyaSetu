@@ -1,4 +1,15 @@
 # ToDos
+**Objective**: Playbook for transition of professionals to professors
+
+Track project updates [here](./Admin/DoNew_VidyaSetu_Tracking.md)
+
+## Pro Tips
+
+* Start small, scale gradually  
+* Leverage professional network  
+* Stay updated with educational technologies  
+* Build a strong digital presence
+
 
 ## **Next Steps**
 * The first step to tackle any moonshot is to understand the problem from the persona's point of view and from the world's points of view - both qualitatively and quantitatively.  
@@ -14,6 +25,7 @@
 		- What is their biggest pain point
 		- What is their mental model 
 		- What is a typical journey map (including emotions) in what they go through, there may be multiple journeys.
+		- How to operationalize the transition, policy, induction etc
 	- *The world out there* - 
 		- know what people have done to tackle these painpoints 
 		- validate what the personas are saying with data. 
@@ -22,31 +34,22 @@
 			- In depth analysis articles, 
 			- Data from colleges (e.g. NIRF submissions, revenue breakdown, etc)
 			- Constructs in another domain but for similar problems
+* Collect Inputs
+	- Start Saturday office hours for this transition 
+	- For Google Form surveys, publish post, use QR code pic for the Google form and use that pic in LinkedIn post instead of web-link.
+	- Ask people to collaborate, put issues, send PRs
+* Formulate Playbook
+	- Make comprehensive learning path diagram, many sub markdown files , images folder etc, all playbooks are made public 
+	- Identify pilot institutions or user groups for testing.  
+	- Launch with a focused marketing campaign targeting mid-career professionals and senior citizens.
+* Build chatbot: 
+	- Create json graph for learning path, role, domain, topic, build graph LLM rag on top, streamlit UI 
+	- Build Graph LLM AI matchmaking, recommendations, learning path etc
+* Teachers certifications
+	- Do some yourself (Google, Microsoft)
+	- Develop partnerships with education boards for certification validation.  
 
-* DoNew project updates (daily or weekly - more frequent the fast the feedback cycles) in the following format -
-	- What did you accomplish that week?
-	- What do you plan to do the next week?
-	- What did you learn that was new and exciting?
-	- What was blocking you and how did you try to overcome it (even though you may be still blocked)?
-* Start Saturday office hours for this transition 
-* Once finalized review beta test then publish post, use QR code pic for the Google form and use that pic in LinkedIn post instead of web-link.
-* Ask people to collaborate, put issues, send PRs
-* Make comprehensive learning path diagram, many sub markdown files , images folder etc, all playbooks are made public 
-* For chatbot: Create json graph for learning path, role, domain, topic, build graph LLM rag on top, streamlit UI 
-* Do certifications yourself 
-* Refine the MVP requirements and prioritize core features.  
-* Develop partnerships with education boards for certification validation.  
-* Identify pilot institutions or user groups for testing.  
-* Launch with a focused marketing campaign targeting mid-career professionals and senior citizens.
-
-### Pro Tips
-
-* Start small, scale gradually  
-* Leverage professional network  
-* Stay updated with educational technologies  
-* Build a strong digital presence
-
-# Appendix 
+<!-- # Appendix 
 
 ## **Development Plan (2-3 Months)**
 
@@ -68,5 +71,5 @@
 
 * Test with a cohort of 50-100 users (mid-career professionals, senior citizens).  
 * Collect feedback on user experience, content quality, and certification utility.  
-* Refine features and prepare for scale-up.
+* Refine features and prepare for scale-up. -->
 
