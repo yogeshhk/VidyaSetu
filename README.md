@@ -29,11 +29,6 @@ Our mission is clear:
 * Make interested professionals teaching-ready  
 * Create a comprehensive playbook for seamless career transition
 
-## Table of Contents
-- [To Do list](./ToDos.md)
-- [Weekly Tracking](./Admin/DoNew_VidyaSetu_Tracking.md)
-- [Playbook](./Playbook/Main.md)
-
 ## **Objective**
 
 To develop a Playbook (may be an EdTech Platform, later) tailored for **mid-career professionals**, **corporate employees**, **homemakers** and **senior citizens** aiming to transition into teaching roles. It will equip users with essential training, certifications, and career pathways, addressing gaps in faculty quality and education outcomes.
@@ -48,6 +43,24 @@ To develop a Playbook (may be an EdTech Platform, later) tailored for **mid-care
 1. **Mid-Career Transition**: Many professionals seek purpose-driven roles like teaching but lack structured guidance and credentials to enter academia.  
 2. **Faculty Quality Gap**: Poorly qualified, un-updated and unmotivated faculty contribute significantly to declining education quality.  
 3. **Lifelong Learning for Seniors**: Senior citizens with domain expertise wish to contribute through teaching but face barriers in pedagogy and digital tools.
+
+## Project Tracking
+- [To Do list](./ToDos.md)
+- [Weekly Project Tracking](./Admin/DoNew_VidyaSetu_Tracking.md)
+
+## Information Gathering
+- [Survey for Professionals](./Admin/DoNew_VidyaSetu_Survey_Individual.md)
+- [Survey for Institutes](./Admin/DoNew_VidyaSetu_Survey_Institutes.md)
+- [Prompts Used](./Admin/DoNew_VidyaSetu_Prompts.md)
+- [Insights Gathered](./Admin/DoNew_VidyaSetu_Insights.md)
+
+## Personal
+- [DoNew Assessment Yogesh](./Admin/DoNew_Assessment_Summary_Yogesh.md)
+- [Ninja Skills](./Admin/DoNew_VidyaSetu_NinjaSkills.md)
+
+## Outcome
+- [Playbook](./Playbook/Playbook.md)
+
 
 ### **Avenues for Contribution**
 
