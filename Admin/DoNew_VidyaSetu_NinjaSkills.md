@@ -1,6 +1,6 @@
 # Ninja Skills
 
-[DoNew Project Ninja Skills](./20DoNewNinjaSkills.png)
+![DoNew Project Ninja Skills](./20DoNewNinjaSkills.png "DoNew Project Ninja Skills")
 
 Prompt used
 
