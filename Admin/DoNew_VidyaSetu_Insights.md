@@ -15,6 +15,9 @@
 
 ### Stakeholders to Talk To: Consolidated Table  
 
+(see source)
+<!-- 
+
 | **Category**         | **Name**               | **College/Relation**       | **Status**     | **Feedback Summary**               |  
 |-----------------------|------------------------|----------------------------|----------------|------------------------------------|  
 | **Teachers**          | Mrudul Dixit          | Cummins                    | No             | --                                 |  
@@ -38,7 +41,7 @@
 | **FDP Organizers**    | (Unspecified names)   | Each college               | To be identified | --                                |  
 | **Industry-Academia Coordinators** | (Unspecified names) | Each college (NIRF Submissions) | To be identified | --                             |  
 
-
+ -->
 ## Insights From Institutes, Faculties (Demand Side)
 
 ### **Challenges for Professionals Transitioning to Teaching**  
