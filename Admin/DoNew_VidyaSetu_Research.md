@@ -3,6 +3,15 @@
 
 Transitioning from a professional career to an academic teaching career involves navigating various challenges and leveraging existing skills. Here are some significant research papers, articles, and findings that provide insights into this transition:
 
+## World out there
+Find what others have done on the same topic:
+- Research papers in journals, conferences
+- Documented case studies
+- In depth analysis articles
+- Data from colleges (e.g. NIRF submissions, revenue breakdown, etc)
+- Constructs in another domain but for similar problems
+
+
 ## Key Research Papers and Articles
 
 1. [Career Shifts of Professionals Who Transitioned into Careers in Academic Organizations](https://files.eric.ed.gov/fulltext/EJ1382948.pdf)
