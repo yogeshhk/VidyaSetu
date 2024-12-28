@@ -13,13 +13,30 @@
 	- **Status**: Response status (e.g., "Contacted", "No", "Pending").  
 	- **Feedback Summary**: Key points gathered.  
 
-## **Example Table for Teachers**  
-| **Name**             | **College** | **Status**   | **Feedback Summary**                     |  
-|-----------------------|-------------|--------------|------------------------------------------|  
-| Mrudul Dixit         | Cummins     | No           | --                                       |  
-| Nagesh Chaugule      | CoEP        | Contacted    | Awaiting response                        |  
-| Jyothi               | MIT-WPU     | BoS member   | Focus on industry projects integration.  |  
+### Stakeholders to Talk To: Consolidated Table  
 
+| **Category**         | **Name**               | **College/Relation**       | **Status**     | **Feedback Summary**               |  
+|-----------------------|------------------------|----------------------------|----------------|------------------------------------|  
+| **Teachers**          | Mrudul Dixit          | Cummins                    | No             | --                                 |  
+|                       | Makarand Velankar     | Cummins                    | No             | --                                 |  
+|                       | Nagesh Chaugule       | CoEP                       | Contacted      | Awaiting response                 |  
+|                       | Ohol                  | CoEP                       | Contacted      | Awaiting response                 |  
+|                       | Mohite                | CoEP                       | Contacted      | Awaiting response                 |  
+|                       | Nimbalkar             | MIT-WPU                   | BoS member     | Awaiting response                 |  
+|                       | Jyothi                | MIT-WPU                   | BoS member     | Awaiting response                 |  
+|                       | (Unspecified names)   | PCCOE                      | Pending        | --                                 |  
+|                       | (Unspecified names)   | VIT                        | Pending        | --                                 |  
+|                       | (Unspecified names)   | VIIT                       | Pending        | --                                 |  
+| **Students**          | Reeya and friends     | Students                   | Contacted      | Awaiting response                 |  
+|                       | Arjun Deodhar         | Student                    | Contacted      | Awaiting response                 |  
+|                       | Deepak Thite (son)    | Student                    | Contacted      | Awaiting response                 |  
+| **Experts Who Teach** | Atul Kahate           | Industry-Academia Expert   | Contacted      | Awaiting response                 |  
+|                       | Anjali Kulkarni       | Expert                     | Contacted      | Awaiting response                 |  
+|                       | Sanjay Sane           | Expert                     | Contacted      | Awaiting response                 |  
+|                       | Emails received       | Various sources            | Pending review | To be summarized                  |  
+|                       | LinkedIn messages     | Various sources            | Pending review | To be summarized                  |  
+| **FDP Organizers**    | (Unspecified names)   | Each college               | To be identified | --                                |  
+| **Industry-Academia Coordinators** | (Unspecified names) | Each college (NIRF Submissions) | To be identified | --                             |  
 
 
 ## Insights From Institutes, Faculties (Demand Side)
