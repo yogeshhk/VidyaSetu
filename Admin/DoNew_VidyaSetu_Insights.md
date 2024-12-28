@@ -2,36 +2,16 @@
 
 ## To Dos
 - Use Google forms [Individuals](./DoNew_VidyaSetu_Survey_Individual.md) and [Institutes](./DoNew_VidyaSetu_Survey_Institutes.md) to collect data
-- Organize the playbook into clear sections for easy navigation. Use headers and bullet points for clarity.  
-
-- **Introduction**:  
-  - Objective of the playbook.  
-  - Purpose of gathering stakeholder inputs.  
-
-- **Stakeholder Segments**:  
-  - Teachers.  
-  - Students.  
-  - Experts who teach.  
-  - FDP Organizers.  
-  - Industry-Academia Coordinators.  
-
-- **Data Collection**:  
-  - Methods: Surveys, emails, interviews, and LinkedIn messages.  
-  - Tools: Use spreadsheets or forms to record responses.  
-
-## Questions for Stakeholders
-Design a concise list of questions:  
-- **For all stakeholders**:  
-  - Must-have needs?  
-  - Good-to-have requirements?  
-  - Biggest pain points?  
-- Add specific questions for each stakeholder group if needed.  
-
-## Record of Contacts and Progress
-Create tables for each stakeholder group with columns like:  
-- **Name**: Contacted individuals.  
-- **Status**: Response status (e.g., "Contacted", "No", "Pending").  
-- **Feedback Summary**: Key points gathered.  
+- Ask a concise list of questions:  
+	- **For all stakeholders**:  
+	  - Must-have needs?  
+	  - Good-to-have requirements?  
+	  - Biggest pain points?  
+	- Add specific questions for each stakeholder group if needed.  
+- Create tables for each stakeholder group with columns like:  
+	- **Name**: Contacted individuals.  
+	- **Status**: Response status (e.g., "Contacted", "No", "Pending").  
+	- **Feedback Summary**: Key points gathered.  
 
 ## **Example Table for Teachers**  
 | **Name**             | **College** | **Status**   | **Feedback Summary**                     |  
@@ -42,7 +22,7 @@ Create tables for each stakeholder group with columns like:
 
 
 
-## From Institutes, Faculties (Demand Side)
+## Insights From Institutes, Faculties (Demand Side)
 
 ### **Challenges for Professionals Transitioning to Teaching**  
 1. **Underestimating the Workload**:  
@@ -63,7 +43,7 @@ Create tables for each stakeholder group with columns like:
    - Some professionals join teaching roles for reasons other than genuine interest, affecting their contribution quality.  
    - **Suggestion**: Screen candidates through trial lectures or mock sessions to ensure alignment with academic values.     
 
-## From Professionals  (Supply Side)
+## Insights From Professionals  (Supply Side)
 
 ### **Institutes' Role in Supporting Professionals**  
 1. **Gratitude and Flexibility**:  
