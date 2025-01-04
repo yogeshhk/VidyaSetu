@@ -23,3 +23,9 @@ Weekly status questions:
 - [B] Talk to faculties
 - [C] Apart from many who are ready to TEACH, there are institutes who need such external talent desperately
 - [D] Low response to emails sent
+
+30-Dec-2024
+- [A] Attended faculty recruitment at COEP and Talked with professors (candidate pool was too bad, incl from IITs)
+- [B] Talk to faculties, send reminders
+- [C] The payment for adjunct faculties or visiting, is pathetic, its 1500-2500/- per hr
+- [D] Low response to emails sent
