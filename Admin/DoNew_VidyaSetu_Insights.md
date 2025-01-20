@@ -42,6 +42,40 @@
 | **Industry-Academia Coordinators** | (Unspecified names) | Each college (NIRF Submissions) | To be identified | --                             |  
 
  -->
+ 
+## Overall Academic Institutes challenges
+
+1. **Academic Culture**: 
+- Heavy emphasis on seniority/rotation-roles over competence
+- Young, brilliant faculty often can't lead projects despite expertise ??
+- Resistance to fresh perspectives from junior academics ??
+
+2. **Quality of Personnel**:
+- Many join for job security rather than passion for academia
+- Teaching positions often filled based on paper qualifications rather than teaching ability
+- Limited influx of industry experts due to rigid entry barriers
+
+3. **Administrative Burden**:
+- Professors spend excessive time on paperwork and administrative tasks
+- Research potential hampered by bureaucratic requirements
+- Focus shifts from teaching/research to compliance
+
+4. **Power Dynamics**:
+- Department politics overshadow academic excellence ??
+- Resource allocation based on influence rather than merit
+- Territory protection within departments limits collaboration ??
+
+5. **Accountability Issues**:
+- No visible/asserted responsibility for student outcomes
+- No clear ownership/drive of curriculum modernization/execution with external faculty
+- Multiple stakeholders but no single point of accountability
+
+6. **Systemic Inefficiencies**:
+- Rigid hierarchical structures resist innovation
+- Limited industry collaboration due to lack of RnD quality and expertise
+- Visiting faculty/experts struggle to get accommodated
+
+
 ## Insights From Institutes, Faculties (Demand Side)
 
 ### **Challenges for Professionals Transitioning to Teaching**  
