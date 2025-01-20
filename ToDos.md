@@ -27,7 +27,7 @@ Track project updates [here](./Admin/DoNew_VidyaSetu_Tracking.md)
 		- What is a typical journey map (including emotions) in what they go through, there may be multiple journeys.
 		- How to operationalize the transition, policy, induction etc
 	- *The world out there* - 
-		- know what people have done to tackle these painpoints 
+		- know what people have done to tackle these pain-points 
 		- validate what the personas are saying with data. 
 		- dig into 
 			- Research papers in journals, conferences, documented case studies, 
