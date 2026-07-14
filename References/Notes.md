@@ -12,4 +12,4 @@
 	- Lateral entry does help crack hard-to-solve problems, these experts head back to their regular jobs in academia or industry.
 	- Non-Technical Priorities, things like preparing the project file and pleasing the “government finance guy” dominate conversations among PSU staff,
 	- Dispersed Accountability, No one individual or organisation is empowered to drive the project and held responsible for its operations and outcomes. Such a style of working leads to finger-pointing among the various collaborators when the output is not up to standards.
-	- Opportunity Cost:  hierarchical culture and office politics to bureaucratic inefficiencies and dispersed accountability — significantly hinder the nation’s ability to produce world-class research and technology
+	- Opportunity Cost:  hierarchical culture and office politics to bureaucratic inefficiencies and dispersed accountability, significantly hindering the nation’s ability to produce world-class research and technology

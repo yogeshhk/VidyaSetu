@@ -1,6 +1,12 @@
 # VidyaSetu (विद्या - सेतू )  Knowledge Bridge
 
+![License](https://img.shields.io/github/license/yogeshhk/VidyaSetu)
+![Last Commit](https://img.shields.io/github/last-commit/yogeshhk/VidyaSetu)
+![Contributors](https://img.shields.io/github/contributors/yogeshhk/VidyaSetu)
+
 Repository for a bridge to transition career from professionals to professors.  
+
+**For**: mid-career professionals, corporate employees, qualified homemakers, early retirees, and senior citizens looking to transition into academic teaching roles in India.
 
 T3Tech: \[Train-The-Trainer\] Technologies, B2S2T: Back2School2Teach
 
@@ -44,6 +50,12 @@ To develop a Playbook (may be an EdTech Platform, later) tailored for **mid-care
 2. **Faculty Quality Gap**: Poorly qualified, un-updated and unmotivated faculty contribute significantly to declining education quality.  
 3. **Lifelong Learning for Seniors**: Senior citizens with domain expertise wish to contribute through teaching but face barriers in pedagogy and digital tools.
 
+## Project at a Glance
+
+![VidyaSetu Mind Map](./Admin/VidyaSetuMindMap.png "VidyaSetu Mind Map")
+
+See [CONTENTS.md](./CONTENTS.md) for a full index of everything in this repo.
+
 ## Project Tracking
 - [To Do list](./ToDos.md)
 - [Weekly Project Tracking](./Admin/DoNew_VidyaSetu_Tracking.md)
@@ -53,6 +65,7 @@ To develop a Playbook (may be an EdTech Platform, later) tailored for **mid-care
 - [Survey for Institutes](./Admin/DoNew_VidyaSetu_Survey_Institutes.md)
 - [Prompts Used](./Admin/DoNew_VidyaSetu_Prompts.md)
 - [Insights Gathered](./Admin/DoNew_VidyaSetu_Insights.md)
+- [Reference Notes & Further Reading](./References/Notes.md)
 
 ## Personal
 - [DoNew Assessment Yogesh](./Admin/DoNew_Assessment_Summary_Yogesh.md)

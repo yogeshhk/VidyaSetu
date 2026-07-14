@@ -25,39 +25,13 @@ Here's why this is particularly insightful:
 *   **Impact on Support:** This insight emphasizes the need for tailored support for transitioning professionals. Mentors and faculty development programs must address these deeper shifts in identity and not just focus on the practical aspects of teaching and research. They need to provide guidance on the unique challenges of adapting to the academic environment, including its cultural and political aspects. This also emphasizes the importance of self-awareness and proactive engagement in cultivating the resources necessary for success in the new academic environment.
 *   **Beyond the Technical:** This insight is unusual because it goes beyond the technical and logistical aspects of transitioning into academia, and gets to the heart of the personal transformation that it requires. This emphasizes that transitioning professionals need to re-evaluate their definition of success and redefine themselves within a new structure and culture.
 
-This understanding of the internal struggle related to professional identity is crucial for all stakeholders—students, faculty, administrators, and resource providers—to support a successful transition into academia.
+This understanding of the internal struggle related to professional identity is crucial for all stakeholders, including students, faculty, administrators, and resource providers, to support a successful transition into academia.
 
 
 ### Stakeholders to Talk To: Consolidated Table  
 
 (see source)
-<!-- 
 
-| **Category**         | **Name**               | **College/Relation**       | **Status**     | **Feedback Summary**               |  
-|-----------------------|------------------------|----------------------------|----------------|------------------------------------|  
-| **Teachers**          | Mrudul Dixit          | Cummins                    | No             | --                                 |  
-|                       | Makarand Velankar     | Cummins                    | No             | --                                 |  
-|                       | Nagesh Chaugule       | CoEP                       | Contacted      | Awaiting response                 |  
-|                       | Ohol                  | CoEP                       | Contacted      | Awaiting response                 |  
-|                       | Mohite                | CoEP                       | Contacted      | Awaiting response                 |  
-|                       | Nimbalkar             | MIT-WPU                   | BoS member     | Awaiting response                 |  
-|                       | Jyothi                | MIT-WPU                   | BoS member     | Awaiting response                 |  
-|                       | (Unspecified names)   | PCCOE                      | Pending        | --                                 |  
-|                       | (Unspecified names)   | VIT                        | Pending        | --                                 |  
-|                       | (Unspecified names)   | VIIT                       | Pending        | --                                 |  
-| **Students**          | Reeya and friends     | Students                   | Contacted      | Awaiting response                 |  
-|                       | Arjun Deodhar         | Student                    | Contacted      | Awaiting response                 |  
-|                       | Deepak Thite (son)    | Student                    | Contacted      | Awaiting response                 |  
-| **Experts Who Teach** | Atul Kahate           | Industry-Academia Expert   | Contacted      | Awaiting response                 |  
-|                       | Anjali Kulkarni       | Expert                     | Contacted      | Awaiting response                 |  
-|                       | Sanjay Sane           | Expert                     | Contacted      | Awaiting response                 |  
-|                       | Emails received       | Various sources            | Pending review | To be summarized                  |  
-|                       | LinkedIn messages     | Various sources            | Pending review | To be summarized                  |  
-| **FDP Organizers**    | (Unspecified names)   | Each college               | To be identified | --                                |  
-| **Industry-Academia Coordinators** | (Unspecified names) | Each college (NIRF Submissions) | To be identified | --                             |  
-
- -->
- 
 ## Overall Academic Institutes challenges
 
 1. **Academic Culture**: 

@@ -1,6 +1,6 @@
 # Ninja Skills
 
-![DoNew Project Ninja Skills](./20DoNewNinjaSkills.png "DoNew Project Ninja Skills")
+20 skills identified by a DoNew career-coaching assessment, expanded below into a learning plan for each.
 
 Prompt used
 
